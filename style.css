@@ -1,0 +1,83 @@
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 500px;
+	border-radius: 10px;
+	margin-bottom: 7px;
+    padding-bottom: 10px;
+    background-color:yellowgreen;
+    color: white;
+}
+
+.header{
+    font-size: 35px;
+    border-radius: 10%;
+    width: fit-content;
+    padding: 15px;
+}
+
+.labe1{
+    word-wrap: normal;
+    font-size: 20px;
+    padding: 10px;
+    width: 80%;
+    border-radius: 10%;
+}
+
+.hh{
+    background-color: rgb(255, 221, 0);
+    color: black;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 20%;
+}
+
+.iimmgg{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+span{
+    font-size: 18px;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: orange;
+    color: white;
+    height: 45px;
+    font-size: 20px;
+    text-align: center;
+    font-family: cursive;
+    padding-top: 8px;
+}
